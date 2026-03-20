@@ -31,5 +31,5 @@ The system is composed of:
 ## Technologies (In planning)
 
 ## Author
-Marco A. Carrasquillo
-Ariel Arzuaga
+- Marco Carrasquillo
+- Ariel Arzuaga
